@@ -6,7 +6,9 @@ I am a junior software engineer leveraging skills in both the front-end & back-e
 As a lifetime learner I am eager to expand my skill set with new tools and technologies.  
 
   **Front-End**: HTML, SCSS, JavaScript, TypeScript, React.js, Redux.js, Ruby, GraphQL
+
   **Back-end**: SQL, NoSQL, MongoDB, PostgreSQL, Express.js, Node.js, Firebase, GraphQL, Apollo, Strapi.io
+
   **Development**: AWS, Netlify, Heroku, Surge 
 
 
