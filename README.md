@@ -7,7 +7,7 @@
 
 
 
-#### As a lifetime learner I am eager to expand my skill set with new tools and technologies.  
+As a lifetime learner I am eager to expand my skill set with new tools and technologies.  
 
 <ul>
 
