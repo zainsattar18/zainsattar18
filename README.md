@@ -1,21 +1,22 @@
 <h1> Hi, Im Zain 👋🏾  👨🏾‍💻 </h1>
 
 
-I am a junior software engineer leveraging skills in both the front-end & back-end of web applications. I attribute my success to my creative problem-solving skills, resourcefulness under pressure, and my positive demeanor. My excitement to create things as well as my desire to learn new concepts compose the bedrock of my approach to development. 
+##### I am a junior software engineer leveraging skills in both the front-end & back-end of web applications. I attribute my success to my creative problem-solving skills, resourcefulness under pressure, and my positive demeanor. My excitement to create things as well as my desire to learn new concepts compose the bedrock of my approach to development. 
 
 
 
 
 
+#### As a lifetime learner I am eager to expand my skill set with new tools and technologies.  
 
-  As a lifetime learner I am eager to expand my skill set with new tools and technologies.  
+<ul>
 
-  **Front-End**: HTML, SCSS, JavaScript, TypeScript, React.js, Redux.js, Ruby, GraphQL
+**Front-End:** HTML, SCSS, JavaScript, TypeScript, React.js, Redux.js, Ruby, GraphQL 
 
-  **Back-end**: SQL, NoSQL, MongoDB, PostgreSQL, Express.js, Node.js, Firebase, GraphQL, Apollo, Strapi.io
+**Back-end:** SQL, NoSQL, MongoDB, PostgreSQL, Express.js, Node.js, Firebase, GraphQL, Apollo, Strapi.io
 
-  **Development**: AWS, Netlify, Heroku, Surge 
-
+**Development:** AWS, Netlify, Heroku, Surge 
+</ul>
 
 ---
 
