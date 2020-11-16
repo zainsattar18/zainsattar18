@@ -5,11 +5,9 @@
 
 
 
-
+<ul>
 
 As a lifetime learner I am eager to expand my skill set with new tools and technologies.  
-
-<ul>
 
 **Front-End:** HTML, SCSS, JavaScript, TypeScript, React.js, Redux.js, Ruby, GraphQL 
 
