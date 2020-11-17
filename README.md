@@ -1,7 +1,7 @@
 <h1> Hi, Im Zain 👋🏾  👨🏾‍💻 </h1>
 
 
-<img src="https://i.imgur.com/mtczZ7r.jpg" alt="Zain info" height="45%"/> 
+<img src="https://i.imgur.com/mtczZ7r.jpg" alt="Zain info" /> 
 
 
 I am a junior software engineer leveraging skills in both the front-end & back-end of web applications. I attribute my success to my creative problem-solving skills, resourcefulness under pressure, and my positive demeanor. My excitement to create things as well as my desire to learn new concepts compose the bedrock of my approach to development. 
